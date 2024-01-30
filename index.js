@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🏝️AZORES RP🏝️","AZORES RP","ENTRA E DESCOBRE!"];
+const statusMessages = ["🏝️AZORES RP🏝️","⚙️FEITO POR RAFINHA⚙️","📥ENTRA E DESCOBRE!📥"];
 
 
 let currentIndex = 0;
