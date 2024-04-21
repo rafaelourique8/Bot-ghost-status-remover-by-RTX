@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💎RUBY RP💎","⚙️FEITO POR RAFINHA⚙️","📥ENTRA E DESCOBRE!📥"];
+const statusMessages = ["💎RUBY RP💎","⚙️FEITO POR RAFINHA⚙️","📥Entra e Descobre!📥"];
 
 
 let currentIndex = 0;
